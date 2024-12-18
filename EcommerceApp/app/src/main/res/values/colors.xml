@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryDark">#3700B3</color>
+        <color name="colorAccent">#03DAC5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name= "statusbarcolor">#8ff7fd</color>
+    <color name="pistagreen">#93C572</color>
+    <color name="purple">#800080</color>
+
+    <!-- Primary Colors -->
+
+    <color name="colorPrimaryLight">#BB86FC</color>
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryDark">#018786</color>
+    <color name="colorSecondaryLight">#B2DFDB</color>
+
+    <!-- Accent Colors -->
+
+    <!-- Text Colors -->
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorHintText">#8A8A8A</color>
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#B00020</color>
+
+    <!-- Button Colors -->
+    <color name="colorButtonNormal">#6200EE</color>
+    <color name="colorButtonPressed">#3700B3</color>
+    <color name="colorButtonDisabled">#D1C4E9</color>
+
+    <!-- Custom Colors -->
+    <color name="colorCustom1">#FF5722</color>
+    <color name="colorCustom2">#4CAF50</color>
+    <color name="colorCustom3">#2196F3</color>
+
+    <!-- Example of Named Colors -->
+    <color name="colorRed">#F44336</color>
+    <color name="colorPink">#E91E63</color>
+    <color name="colorPurple">#9C27B0</color>
+    <color name="colorDeepPurple">#673AB7</color>
+    <color name="colorIndigo">#3F51B5</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorLightBlue">#03A9F4</color>
+    <color name="colorCyan">#00BCD4</color>
+    <color name="colorTeal">#009688</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorLightGreen">#8BC34A</color>
+    <color name="colorLime">#CDDC39</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorAmber">#FFC107</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorDeepOrange">#FF5722</color>
+    <color name="colorBrown">#795548</color>
+    <color name="colorGrey">#9E9E9E</color>
+    <color name="colorBlueGrey">#607D8B</color>
+</resources>
